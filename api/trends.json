@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T22:29:05.398251+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2025-10-21T23:28:55.904724+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时37分 ~ 22时29分]"
+          "appearance_count": 11,
+          "time_info": "[16时37分 ~ 23时28分]"
         },
         {
           "title": "外交部回应特朗普称将于明年访华",
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时37分 ~ 22时29分]"
+          "appearance_count": 11,
+          "time_info": "[16时37分 ~ 23时28分]"
         },
         {
           "title": "特朗普又改口：从未说过乌克兰会赢",
@@ -40,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时37分 ~ 22时29分]"
+          "appearance_count": 11,
+          "time_info": "[16时37分 ~ 23时28分]"
         },
         {
           "title": "特朗普：很快将访问日本",
@@ -52,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时26分 ~ 22时29分]"
+          "appearance_count": 13,
+          "time_info": "[15时26分 ~ 23时28分]"
         },
         {
           "title": "特朗普称将于明年初访问中国 外交部回应",
@@ -66,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时37分 ~ 22时29分]"
+          "appearance_count": 11,
+          "time_info": "[16时37分 ~ 23时28分]"
         },
         {
           "title": "中方回应特朗普称明年将访华",
@@ -102,11 +103,12 @@
             10,
             14,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时26分 ~ 22时29分]"
+          "appearance_count": 13,
+          "time_info": "[15时26分 ~ 23时28分]"
         },
         {
           "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
@@ -121,8 +123,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时26分 ~ 22时29分]"
+          "appearance_count": 13,
+          "time_info": "[15时26分 ~ 23时28分]"
         },
         {
           "title": "特朗普称一年后美国稀土将多如牛毛",
@@ -135,6 +137,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时26分 ~ 17时29分]"
+        },
+        {
+          "title": "评论员：泽连斯基再度被特朗普侮辱",
+          "url": "https://www.toutiao.com/trending/7563610173114158601/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时56分 ~ 23时28分]"
         },
         {
           "title": "特朗普泽连斯基为何再度争吵",
@@ -173,24 +187,13 @@
           "time_info": "[16时37分 ~ 19时22分]"
         },
         {
-          "title": "评论员：泽连斯基再度被特朗普侮辱",
-          "url": "https://www.toutiao.com/trending/7563610173114158601/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时56分 ~ 22时29分]"
-        },
-        {
           "title": "诺和诺德(NVO.N)基金会主席：与特朗普政府的谈判正在进行中，涉及他们对美国价格的要求。",
           "url": "https://flash.jin10.com/detail/20251021220159619800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -264,6 +267,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时30分 ~ 19时22分]"
+        },
+        {
+          "title": "特朗普：哈马斯若违反协议将面临“残酷”回应",
+          "url": "https://wallstreetcn.com/livenews/2991293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时28分]"
         },
         {
           "title": "特朗普政府“签协议换拨款”提议遇冷 首批9所大学有7所明确拒绝",
@@ -356,17 +371,6 @@
           "time_info": "21时41分"
         },
         {
-          "title": "特朗普：哈马斯若违反协议将面临“残酷”回应",
-          "url": "https://wallstreetcn.com/livenews/2991293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
           "title": "日本首相高市早苗：希望访问期间与美国总统特朗普进行坦诚讨论。",
           "url": "https://flash.jin10.com/detail/20251021212021861800",
           "source": "金十数据",
@@ -447,7 +451,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
@@ -458,8 +462,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时30分 ~ 22时29分]"
+          "appearance_count": 9,
+          "time_info": "[18时30分 ~ 23时28分]"
         },
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -493,6 +497,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时40分 ~ 21时41分]"
+        },
+        {
+          "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "“每日被狠狠打脸，痛苦且沮丧”，高盛指数显示美股做空者经历逼空重创",
+          "url": "https://wallstreetcn.com/livenews/2991320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "美股三大股指开盘涨跌不一，道指涨0.02%，标普500指数涨0.03%，纳指跌0.04%。通用汽车大涨10%，公司Q3业绩超预期，上调全年盈利指引。“人造肉第一股”BeyondMeat涨超50%，公司将在全美2000多家沃尔玛门店扩展分销。可口可乐上涨3.7%，创2月11日以来最大涨幅。黄金股普跌，金田、哈莫尼黄金跌超9%。",
@@ -554,6 +580,18 @@
           "time_info": "[16时37分 ~ 17时29分]"
         },
         {
+          "title": "美股盘初，主要行业ETF多数走低，黄金ETF跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/2991295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时28分]"
+        },
+        {
           "title": "美股开盘，道指涨0.02%，标普500指数涨0.03%，纳指跌0.04%。通用汽车(GM.N)大涨10%，公司三季度业绩超预期，并上调全年盈利指引。“人造肉第一股”BeyondMeat(BYND.O)开涨52%，据悉公司将在全美2000多家沃尔玛门店扩展分销。",
           "url": "https://flash.jin10.com/detail/20251021213058175800",
           "source": "金十数据",
@@ -585,17 +623,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF多数走低，黄金ETF跌近4%。",
-          "url": "https://wallstreetcn.com/livenews/2991295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
         },
         {
           "title": "3M三季度净销售额65亿美元，同比增长3.3%。 三季度持续经营业务调整后每股收益为2.19美元，市场预期为2.07美元。 3M美股盘前跌近1%。",
@@ -656,7 +683,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "国际金价突然大跌",
@@ -664,11 +691,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时56分 ~ 22时29分]"
+          "appearance_count": 7,
+          "time_info": "[20时56分 ~ 23时28分]"
         },
         {
           "title": "金价大涨影响年轻人结婚",
@@ -697,6 +725,18 @@
           "time_info": "[20时56分 ~ 22时29分]"
         },
         {
+          "title": "国际金价大跌原因",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26cate%3D5001%26realpos%3D28%26flag%3D0%26pos%3D29%26stream_entry_id%3D31%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26band_rank%3D28%26c_type%3D31%26display_time%3D1761053896%26pre_seqid%3D17610538960480229641103",
+          "source": "微博",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时40分 ~ 23时28分]"
+        },
+        {
           "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
           "url": "https://www.cls.cn/detail/2175165",
           "source": "财联社热门",
@@ -709,15 +749,16 @@
           "time_info": "[15时26分 ~ 17时29分]"
         },
         {
-          "title": "国际金价大跌原因",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26cate%3D5001%26realpos%3D28%26flag%3D0%26pos%3D29%26stream_entry_id%3D31%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26band_rank%3D28%26c_type%3D31%26display_time%3D1761053896%26pre_seqid%3D17610538960480229641103",
-          "source": "微博",
+          "title": "黄金价格坐过山车 后续怎么走",
+          "url": "https://www.toutiao.com/trending/7563613729208667702/",
+          "source": "今日头条",
           "ranks": [
-            28
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时40分 ~ 22时29分]"
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时28分]"
         },
         {
           "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
@@ -731,17 +772,6 @@
           "time_info": "[15时26分 ~ 15时27分]"
         },
         {
-          "title": "黄金价格坐过山车 后续怎么走",
-          "url": "https://www.toutiao.com/trending/7563613729208667702/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 22时29分]"
-        },
-        {
           "title": "金价飙升引发投资潮 韩国银行金条供不应求",
           "url": "https://flash.jin10.com/detail/20251021151749192800",
           "source": "金十数据",
@@ -751,6 +781,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D23%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26stream_entry_id%3D31%26band_rank%3D22%26lcate%3D5001%26realpos%3D22%26flag%3D1%26display_time%3D1761059005%26pre_seqid%3D176105900578901474119139",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         }
       ]
     },
@@ -768,8 +809,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时37分 ~ 22时29分]"
+          "appearance_count": 11,
+          "time_info": "[16时37分 ~ 23时28分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -781,8 +822,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时26分 ~ 22时29分]"
+          "appearance_count": 13,
+          "time_info": "[15时26分 ~ 23时28分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -798,8 +839,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时26分 ~ 22时29分]"
+          "appearance_count": 13,
+          "time_info": "[15时26分 ~ 23时28分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -810,8 +851,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时56分 ~ 22时29分]"
+          "appearance_count": 7,
+          "time_info": "[20时56分 ~ 23时28分]"
         },
         {
           "title": "全球六大顶级AI实盘厮杀 DeepSeek第一",
@@ -916,7 +957,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         }
@@ -932,11 +973,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时26分 ~ 22时29分]"
+          "appearance_count": 13,
+          "time_info": "[15时26分 ~ 23时28分]"
         }
       ]
     }
