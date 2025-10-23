@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T16:38:14.751242+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2025-10-23T17:29:26.533985+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 87,
+      "match_count": 89,
       "titles": [
         {
           "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
@@ -42,6 +42,29 @@
           "time_info": "[00时37分 ~ 06时21分]"
         },
         {
+          "title": "特朗普取消与普京会面，克里姆林宫回应",
+          "url": "https://news.ifeng.com/c/8ngMoyIhbIn",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时32分 ~ 17时29分]"
+        },
+        {
+          "title": "释新闻｜“不想浪费时间”，特朗普为何又不想见普京了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31823823",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 17时29分]"
+        },
+        {
           "title": "【早报】特朗普：取消与普京会面；公募基金业绩比较基准规则征求意见稿即将发布",
           "url": "https://www.cls.cn/detail/2177683",
           "source": "财联社热门",
@@ -51,17 +74,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时57分 ~ 15时28分]"
-        },
-        {
-          "title": "特朗普取消与普京会面，克里姆林宫回应",
-          "url": "https://news.ifeng.com/c/8ngMoyIhbIn",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 16时38分]"
         },
         {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
@@ -96,18 +108,6 @@
           "time_info": "[00时37分 ~ 07时24分]"
         },
         {
-          "title": "释新闻｜“不想浪费时间”，特朗普为何又不想见普京了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31823823",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 16时38分]"
-        },
-        {
           "title": "他被特朗普当众羞辱，全场都在哄笑",
           "url": "https://news.ifeng.com/c/8ng6g7G7AiA",
           "source": "凤凰网",
@@ -128,11 +128,12 @@
             23,
             22,
             21,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 16时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 17时29分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -190,28 +191,18 @@
           "time_info": "[09时57分 ~ 14时40分]"
         },
         {
-          "title": "2.3亿美元，特朗普向特朗普政府索赔",
-          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时24分]"
-        },
-        {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
           "source": "澎湃新闻",
           "ranks": [
             13,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 16时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 17时29分]"
         },
         {
           "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
@@ -223,8 +214,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 16时38分]"
+          "appearance_count": 7,
+          "time_info": "[12时32分 ~ 17时29分]"
+        },
+        {
+          "title": "2.3亿美元，特朗普向特朗普政府索赔",
+          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时24分]"
         },
         {
           "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
@@ -251,6 +253,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时57分 ~ 15时28分]"
+        },
+        {
+          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1964624412641833840",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 17时29分]"
         },
         {
           "title": "特朗普本周开启第二任期首次亚洲行",
@@ -292,7 +307,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -315,7 +330,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -375,18 +390,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1964624412641833840",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 16时38分]"
         },
         {
           "title": "特朗普称取消与普京会晤 美国国债总额首次超过38万亿美元 | 环球市场",
@@ -529,6 +532,17 @@
           "time_info": "[12时32分 ~ 15时28分]"
         },
         {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 17时29分]"
+        },
+        {
           "title": "特朗普普京会晤为何被“急踩刹车”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4%E4%B8%BA%E4%BD%95%E8%A2%AB%E2%80%9C%E6%80%A5%E8%B8%A9%E5%88%B9%E8%BD%A6%E2%80%9D",
           "source": "百度热搜",
@@ -540,15 +554,16 @@
           "time_info": "[09时57分 ~ 12时32分]"
         },
         {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
+          "title": "唐驳虎：特朗普第一次对普京动真格",
+          "url": "https://www.toutiao.com/trending/7564280002351468071/",
+          "source": "今日头条",
           "ranks": [
-            7
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 17时29分]"
         },
         {
           "title": "通用汽车（GM）股价周三冲高回落，纽约中午持平，暂报66.63美元。 福特汽车跌幅收窄至1.1%，暂报12.42美元。 美国总统特朗普称：“通用汽车的Barra和福特汽车的Bill Ford打电话给我，感谢我的关税。Barr在电话中感谢我对某些卡车加征的关税。”",
@@ -646,17 +661,6 @@
           "time_info": "[06时21分 ~ 07时24分]"
         },
         {
-          "title": "唐驳虎：特朗普第一次对普京动真格",
-          "url": "https://www.toutiao.com/trending/7564280002351468071/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
           "title": "美国总统特朗普：俄罗斯总统普京提到了核裁军，我对此表示赞同。",
           "url": "https://flash.jin10.com/detail/20251023054132621800",
           "source": "金十数据",
@@ -714,6 +718,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "俄乌和平进程受阻？特朗普最新表态：取消与普京布达佩斯会晤",
+          "url": "https://www.cls.cn/detail/2177790",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "市场消息：汽车制造商呼吁特朗普政府不要对工厂机器人和工业机械征收新关税。",
           "url": "https://flash.jin10.com/detail/20251023043122869800",
           "source": "金十数据",
@@ -753,7 +768,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1011,6 +1026,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "为何没人知晓特朗普家族如今赚多少钱",
+          "url": "https://www.toutiao.com/trending/7564312142908755510/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "特朗普对俄对乌态度一变再变",
           "url": "https://www.toutiao.com/trending/7563471019005116457/",
           "source": "今日头条",
@@ -1046,8 +1072,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 16时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 17时29分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1084,8 +1110,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 16时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 17时29分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -1210,7 +1236,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1232,7 +1258,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1318,17 +1344,6 @@
           "time_info": "[00时37分 ~ 07时24分]"
         },
         {
-          "title": "金十图示：2025年10月23日（周四）上海金午盘价为941.53元/克，较国际金价(943.31元/克)，低1.78元/克",
-          "url": "https://flash.jin10.com/detail/20251023150404201800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
           "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
           "url": "https://www.cls.cn/detail/2177936",
           "source": "财联社热门",
@@ -1338,8 +1353,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 16时38分]"
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 17时29分]"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）上海金午盘价为941.53元/克，较国际金价(943.31元/克)，低1.78元/克",
+          "url": "https://flash.jin10.com/detail/20251023150404201800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "金价一夜跌50元顾客相中直接买走",
@@ -1429,7 +1455,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
@@ -1438,11 +1464,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 16时38分]"
+          "appearance_count": 7,
+          "time_info": "[12时32分 ~ 17时29分]"
         },
         {
           "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
@@ -1455,8 +1482,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 16时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 17时29分]"
         },
         {
           "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
@@ -1516,6 +1543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "据天空新闻：谷歌(GOOG.O)已同意投资一项金融工具，该工具可转换为对THG Ingenuity的股权，估值达7.5亿英镑或更高。",
+          "url": "https://flash.jin10.com/detail/20251023170528085800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "马斯克对谷歌CEO桑达尔·皮查伊表示：“恭喜。看起来量子计算正在变得越来越重要。”",
