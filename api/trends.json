@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T15:24:08.860517+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2025-11-08T16:36:27.028018+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普痛骂佩洛西",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时55分 ~ 15时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 16时36分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -68,6 +68,22 @@
           "time_info": "[00时30分 ~ 12时29分]"
         },
         {
+          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时11分 ~ 16时36分]"
+        },
+        {
           "title": "特朗普：美国人正为关税付出代价",
           "url": "https://www.toutiao.com/trending/7569021464603901971/",
           "source": "今日头条",
@@ -80,19 +96,15 @@
           "time_info": "[01时24分 ~ 06时25分]"
         },
         {
-          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
-          "source": "澎湃新闻",
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://flash.jin10.com/detail/20251108154641553800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            18,
-            16,
-            15,
-            14
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时11分 ~ 15时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
@@ -223,6 +235,17 @@
           "time_info": "[12时29分 ~ 15时24分]"
         },
         {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 16时36分]"
+        },
+        {
           "title": "美国总统特朗普：现在是共和党参议员停止与激进左派民主党人玩弄把戏的时候了，立即终止阻挠议事，立即开放政府，并通过一些具有常识的伟大立法！",
           "url": "https://flash.jin10.com/detail/20251108084855810800",
           "source": "金十数据",
@@ -281,17 +304,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时21分]"
-        },
-        {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时24分]"
         },
         {
           "title": "美国总统特朗普：考虑在“制裁俄罗斯石油”方面实施豁免。 考虑对匈牙利实施豁免。",
@@ -612,8 +624,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 15时24分]"
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 16时36分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -638,8 +650,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 16时36分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -816,8 +828,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 16时36分]"
         },
         {
           "title": "美以称“伊朗曾试图密谋暗杀以色列驻墨西哥大使”，伊方驳斥：弥天大谎",
@@ -898,7 +910,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -922,6 +934,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 01时24分]"
+        },
+        {
+          "title": "下周美国市场也不好过？美债发行潮来袭，流动性“雪上加霜”",
+          "url": "https://wallstreetcn.com/articles/3758965",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     },
