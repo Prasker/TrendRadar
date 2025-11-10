@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-10T13:28:17.242353+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2025-11-10T14:41:55.713418+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 33,
       "titles": [
+        {
+          "title": "特朗普宣布一个大消息",
+          "url": "https://news.ifeng.com/c/8o9xDTJ6QQT",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 14时41分]"
+        },
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
           "url": "https://wallstreetcn.com/articles/3758981",
@@ -20,18 +32,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时30分 ~ 10时09分]"
-        },
-        {
-          "title": "特朗普宣布一个大消息",
-          "url": "https://news.ifeng.com/c/8o9xDTJ6QQT",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 13时28分]"
         },
         {
           "title": "特朗普称政府停摆接近结束",
@@ -81,6 +81,32 @@
           "time_info": "[10时08分 ~ 11时56分]"
         },
         {
+          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
+          "url": "https://www.cls.cn/detail/2195415",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 14时41分]"
+        },
+        {
+          "title": "牛弹琴：特朗普宣布一个大消息",
+          "url": "https://www.toutiao.com/trending/7570877314167213595/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 14时41分]"
+        },
+        {
           "title": "特朗普提名约翰·科尔为美国驻白俄罗斯特使",
           "url": "https://flash.jin10.com/detail/20251109225052216800",
           "source": "金十数据",
@@ -107,31 +133,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时30分 ~ 06时24分]"
-        },
-        {
-          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
-          "url": "https://www.cls.cn/detail/2195415",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 13时28分]"
-        },
-        {
-          "title": "牛弹琴：特朗普宣布一个大消息",
-          "url": "https://www.toutiao.com/trending/7570877314167213595/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 13时28分]"
         },
         {
           "title": "特朗普被严重警告",
@@ -169,6 +170,18 @@
           "time_info": "[11时55分 ~ 11时56分]"
         },
         {
+          "title": "泽连斯基：全世界都怕特朗普但我不怕",
+          "url": "https://www.toutiao.com/trending/7569890031507144723/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时41分]"
+        },
+        {
           "title": "参议院公布三项立法草案，作为结束特朗普政府停摆提案的一部分",
           "url": "https://wallstreetcn.com/livenews/3001731",
           "source": "华尔街见闻-快讯",
@@ -193,17 +206,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时30分 ~ 05时22分]"
-        },
-        {
-          "title": "泽连斯基：全世界都怕特朗普但我不怕",
-          "url": "https://www.toutiao.com/trending/7569890031507144723/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         },
         {
           "title": "特朗普：反对关税的人是“蠢材”！美国现在是世界上最富有的国家",
@@ -252,6 +254,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "专家：特朗普发钱一箭三雕",
+          "url": "https://www.toutiao.com/trending/7570931158150565427/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 14时41分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
@@ -341,18 +356,6 @@
           "time_info": "[04时27分 ~ 06时24分]"
         },
         {
-          "title": "专家：特朗普发钱一箭三雕",
-          "url": "https://www.toutiao.com/trending/7570931158150565427/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 13时28分]"
-        },
-        {
           "title": "特朗普称政府停摆接近结束",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8E%A5%E8%BF%91%E7%BB%93%E6%9D%9F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D0%26realpos%3D8%26lcate%3D5001%26cate%3D5001%26pos%3D8%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E6%2594%25BF%25E5%25BA%259C%25E5%2581%259C%25E6%2591%2586%25E6%258E%25A5%25E8%25BF%2591%25E7%25BB%2593%25E6%259D%259F%2523%26stream_entry_id%3D31%26dgr%3D0%26c_type%3D31%26band_rank%3D8%26display_time%3D1762746850%26pre_seqid%3D1762746850023099744875&launchid=10000360-page_H5",
           "source": "微博",
@@ -362,6 +365,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时55分 ~ 11时56分]"
+        },
+        {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时41分]"
         },
         {
           "title": "美国政府停摆 特朗普享乐被痛批",
@@ -396,17 +410,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
-        },
-        {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         }
       ]
     },
@@ -426,8 +429,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 13时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 14时41分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -435,11 +438,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 13时28分]"
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 14时41分]"
         },
         {
           "title": "欧美股指期货走高 纳指期货涨1%",
@@ -480,11 +484,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 14时41分]"
         }
       ]
     },
@@ -501,8 +506,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时55分 ~ 13时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时55分 ~ 14时41分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
