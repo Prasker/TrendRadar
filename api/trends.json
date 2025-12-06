@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T15:25:12.198182+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2025-12-06T16:34:04.450165+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             5,
             22,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时00分 ~ 15时25分]"
+          "appearance_count": 11,
+          "time_info": "[10时00分 ~ 16时34分]"
         },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -64,11 +65,12 @@
           "url": "https://www.zhihu.com/question/1979570545172423754",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时25分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 16时34分]"
         },
         {
           "title": "美国参议院共和党成员Marshall（附和总统特朗普政府的立场）：奈飞收购华纳兄弟探索的交易“严肃的红旗”。",
@@ -125,6 +127,20 @@
           "time_info": "[11时17分 ~ 15时25分]"
         },
         {
+          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
+          "url": "https://flash.jin10.com/detail/20251206125008162800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 16时34分]"
+        },
+        {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
           "url": "https://flash.jin10.com/detail/20251206022018049800",
           "source": "金十数据",
@@ -149,19 +165,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时17分 ~ 14时38分]"
-        },
-        {
-          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
-          "url": "https://flash.jin10.com/detail/20251206125008162800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 15时25分]"
         },
         {
           "title": "美国总统特朗普抵达2026年世界杯抽签仪式现场，称这是“重要一天”。",
@@ -532,8 +535,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时00分 ~ 15时25分]"
+          "appearance_count": 11,
+          "time_info": "[10时00分 ~ 16时34分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -545,8 +548,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时25分 ~ 15时25分]"
+          "appearance_count": 12,
+          "time_info": "[07时25分 ~ 16时34分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -560,8 +563,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时25分 ~ 15时25分]"
+          "appearance_count": 12,
+          "time_info": "[07时25分 ~ 16时34分]"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
@@ -725,17 +728,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
-          "url": "https://flash.jin10.com/detail/20251206034533252800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时32分 ~ 07时25分]"
-        },
-        {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
           "url": "https://www.zhihu.com/question/1979223676378447995",
           "source": "知乎",
@@ -746,8 +738,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 15时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 16时34分]"
+        },
+        {
+          "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
+          "url": "https://flash.jin10.com/detail/20251206034533252800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时32分 ~ 07时25分]"
         },
         {
           "title": "美国法官发布最终的搜索反垄断官司判决结果：谷歌公司必须将默认合同限定在一年。",
@@ -812,8 +815,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 16时34分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
