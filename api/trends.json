@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:33:05.618500+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2025-12-07T17:26:40.613730+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
             4,
             10,
             14,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 17时26分]"
         },
         {
           "title": "美国发生特大诈骗案 特朗普怒批",
@@ -92,11 +93,12 @@
             1,
             7,
             11,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 16时33分]"
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 17时26分]"
         },
         {
           "title": "特朗普或将给高市早苗放权",
@@ -242,8 +244,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 16时33分]"
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 17时26分]"
         }
       ]
     },
