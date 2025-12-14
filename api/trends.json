@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T19:23:02.852437+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2025-12-14T20:53:11.138361+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
@@ -112,6 +112,17 @@
           "time_info": "[00时32分 ~ 10时23分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 20时53分]"
+        },
+        {
           "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
           "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
           "source": "凤凰网",
@@ -160,17 +171,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 10时23分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
@@ -318,7 +318,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -500,11 +500,12 @@
           "ranks": [
             9,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时28分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[13时28分 ~ 20时53分]"
         }
       ]
     }
