@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T20:53:11.138361+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2025-12-14T21:33:15.453736+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时22分 ~ 16时34分]"
+        },
+        {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时22分 ~ 21时33分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -110,17 +121,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 10时23分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时22分 ~ 20时53分]"
         },
         {
           "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
@@ -265,6 +265,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普回应美士兵在叙遇袭身亡",
+          "url": "https://www.douyin.com/hot/2335907",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "特朗普或因说漏嘴致间谍曝光",
@@ -490,6 +501,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -504,8 +532,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时28分 ~ 20时53分]"
+          "appearance_count": 14,
+          "time_info": "[13时28分 ~ 21时33分]"
         }
       ]
     }
