@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T12:01:43.812995+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2025-12-24T13:32:33.746926+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -55,11 +55,12 @@
           "ranks": [
             12,
             15,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 12时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 13时32分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -70,11 +71,12 @@
             13,
             24,
             28,
-            30
+            30,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 12时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 13时32分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -117,6 +119,20 @@
           "time_info": "01时28分"
         },
         {
+          "title": "美军将建造“特朗普级”战舰",
+          "url": "https://www.douyin.com/hot/2345209",
+          "source": "抖音",
+          "ranks": [
+            27,
+            18,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时31分 ~ 13时32分]"
+        },
+        {
           "title": "美新型战舰被命名为特朗普级你咋看",
           "url": "https://www.toutiao.com/trending/7586859203608772635/",
           "source": "今日头条",
@@ -140,6 +156,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时37分 ~ 02时41分]"
+        },
+        {
+          "title": "特朗普回应克林顿大尺度照被公布",
+          "url": "https://www.toutiao.com/trending/7586912730720947748/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 13时32分]"
         },
         {
           "title": "美国最高法院拒绝允许美国总统特朗普向芝加哥地区部署国民警卫队。",
@@ -202,18 +231,6 @@
           "time_info": "[02时41分 ~ 03时23分]"
         },
         {
-          "title": "特朗普回应克林顿大尺度照被公布",
-          "url": "https://www.toutiao.com/trending/7586912730720947748/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 12时01分]"
-        },
-        {
           "title": "美国白宫国家经济委员会主任哈塞特：美国总统特朗普的贸易议程正在显现成效。",
           "url": "https://flash.jin10.com/detail/20251224001014417800",
           "source": "金十数据",
@@ -238,18 +255,17 @@
           "time_info": "[02时41分 ~ 03时23分]"
         },
         {
-          "title": "美军将建造“特朗普级”战舰",
-          "url": "https://www.douyin.com/hot/2345209",
-          "source": "抖音",
+          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
+          "url": "https://www.cls.cn/detail/2238272",
+          "source": "财联社热门",
           "ranks": [
-            27,
-            18,
             10,
-            17
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 13时32分]"
         },
         {
           "title": "特朗普：和我持不同意见的人将永远无法成为美联储主席",
@@ -265,16 +281,16 @@
           "time_info": "[02时41分 ~ 04时31分]"
         },
         {
-          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
-          "url": "https://www.cls.cn/detail/2238272",
-          "source": "财联社热门",
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 13时32分]"
         },
         {
           "title": "美国法官驳回了特朗普政府针对纽约州法律的诉讼，特朗普政府称该法律阻碍了移民执法。",
@@ -301,16 +317,15 @@
           "time_info": "[05时27分 ~ 06时27分]"
         },
         {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时09分 ~ 12时01分]"
+          "time_info": "[12时01分 ~ 13时32分]"
         },
         {
           "title": "美国总统特朗普：希望市场能在好消息时上涨，在坏消息时下跌。",
@@ -361,6 +376,18 @@
           "time_info": "[02时41分 ~ 03时23分]"
         },
         {
+          "title": "特朗普再谈格陵兰问题 还提到中国",
+          "url": "https://www.toutiao.com/trending/7586746209667239443/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时32分]"
+        },
+        {
           "title": "美国总统特朗普：任何反对我的人都永远得不到美联储主席职位。如果市场表现良好，我希望新任美联储主席降低利率。",
           "url": "https://flash.jin10.com/detail/20251224015744458800",
           "source": "金十数据",
@@ -379,31 +406,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
         {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
+          "title": "尽管欧盟曾向特朗普承诺在未来三年内购买价值7500亿美元的美国能源，但在过去四个月里，欧盟从美国购买石油和天然气的支出却减少了7%。",
+          "url": "https://flash.jin10.com/detail/20251224130340552800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "特朗普再谈格陵兰问题 还提到中国",
-          "url": "https://www.toutiao.com/trending/7586746209667239443/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "time_info": "13时32分"
         },
         {
           "title": "美最高法院暂时阻止特朗普政府在芝加哥部署军队",
@@ -412,7 +428,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -488,8 +504,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 13时32分]"
         },
         {
           "title": "半导体ETF收涨超0.9%，领跑美股行业ETF，标普电信、科技板块涨超0.9%",
@@ -785,8 +801,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 13时32分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -816,6 +832,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 04时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "数据分析公司Crisil Coalition Greenwich的数据显示，在黄金和白银价格飙升的背景下，今年前九个月，主要银行贵金属交易部门的收入比2024年同期增长了50%。",
+          "url": "https://flash.jin10.com/detail/20251224130812700800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
