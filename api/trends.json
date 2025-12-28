@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-28T19:23:53.282105+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2025-12-28T20:55:28.816474+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 20,
       "titles": [
-        {
-          "title": "特朗普回应泽连斯基：没我，你啥都不是",
-          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时26分]"
-        },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
           "url": "https://wallstreetcn.com/articles/3762196",
@@ -28,8 +17,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时32分 ~ 20时55分]"
+        },
+        {
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[13时32分 ~ 19时23分]"
+          "time_info": "[00时33分 ~ 07时26分]"
         },
         {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
@@ -106,8 +106,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 20时55分]"
         },
         {
           "title": "特朗普与泽连斯基会晤时间有所调整",
@@ -264,8 +264,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时12分 ~ 19时23分]"
+          "appearance_count": 11,
+          "time_info": "[12时12分 ~ 20时55分]"
         },
         {
           "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
@@ -358,6 +358,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 20时55分]"
+        },
+        {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
           "url": "https://flash.jin10.com/detail/20251228100400527800",
           "source": "金十数据",
@@ -368,18 +381,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时29分 ~ 12时12分]"
-        },
-        {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 19时23分]"
         }
       ]
     },
