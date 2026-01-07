@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T15:33:30.535393+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-01-07T16:41:48.526829+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普不到1年对7国动武",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时39分 ~ 10时13分]"
+        },
+        {
+          "title": "特朗普不满马杜罗：他学我跳舞",
+          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时33分 ~ 16时41分]"
         },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
@@ -32,6 +45,18 @@
           "time_info": "[00时39分 ~ 07时28分]"
         },
         {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时13分 ~ 16时41分]"
+        },
+        {
           "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
           "url": "https://news.ifeng.com/c/8piFwnPic7a",
           "source": "凤凰网",
@@ -43,16 +68,19 @@
           "time_info": "[10时13分 ~ 13时34分]"
         },
         {
-          "title": "特朗普不满马杜罗：他学我跳舞",
-          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
-          "source": "凤凰网",
+          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
+          "url": "https://www.cls.cn/detail/2249952",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            2
+            5,
+            7,
+            6,
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时33分 ~ 15时33分]"
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时41分]"
         },
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -65,18 +93,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时28分 ~ 14时45分]"
-        },
-        {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时13分 ~ 15时33分]"
         },
         {
           "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
@@ -107,18 +123,16 @@
           "time_info": "[00时39分 ~ 07时28分]"
         },
         {
-          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
-          "url": "https://www.cls.cn/detail/2249952",
-          "source": "财联社热门",
+          "title": "特朗普为何恨他入骨？",
+          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            7,
-            6,
-            3
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 15时33分]"
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 16时41分]"
         },
         {
           "title": "特朗普支持格陵兰岛独立",
@@ -134,15 +148,15 @@
           "time_info": "[04时33分 ~ 07时28分]"
         },
         {
-          "title": "特朗普为何恨他入骨？",
-          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
-          "source": "凤凰网",
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
           "ranks": [
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 15时33分]"
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时41分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -171,15 +185,15 @@
           "time_info": "[00时39分 ~ 07时28分]"
         },
         {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
+          "title": "特朗普宣布委内瑞拉移交制裁原油 加元与克朗随油价走低",
+          "url": "https://flash.jin10.com/detail/20260107163831216800",
+          "source": "金十数据",
           "ranks": [
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 15时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "特朗普称莫迪对关税不满 印度的俄罗斯原油进口量已减少",
@@ -204,6 +218,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时13分 ~ 14时45分]"
+        },
+        {
+          "title": "特朗普欲引委油入美 全球油价应声下跌",
+          "url": "https://flash.jin10.com/detail/20260107163725022800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
@@ -452,9 +477,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "巴西副总统：巴西总统卢拉与美国总统特朗普关系良好。",
@@ -545,6 +581,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "美参院民主党领袖批特朗普对委行动",
+          "url": "https://www.toutiao.com/trending/7591542867982614564/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "特朗普考虑动用美军获取格陵兰岛",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%80%83%E8%99%91%E5%8A%A8%E7%94%A8%E7%BE%8E%E5%86%9B%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
           "source": "百度热搜",
@@ -573,7 +620,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -639,7 +686,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -727,7 +774,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -923,7 +970,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -934,7 +981,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -986,11 +1033,12 @@
             19,
             20,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 15时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 16时41分]"
         },
         {
           "title": "美媒：伊朗人士担心美对伊采取类似委内瑞拉的行动",
@@ -999,7 +1047,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -1099,7 +1147,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -1179,7 +1227,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         }
