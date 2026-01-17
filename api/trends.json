@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T16:35:51.935572+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-01-17T17:28:48.106376+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普威胁：对不支持的国家加征关税",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时28分 ~ 16时35分]"
+          "appearance_count": 10,
+          "time_info": "[07时28分 ~ 17时28分]"
         },
         {
           "title": "特朗普：这是卡尼该做的事，签协议是好事",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时08分 ~ 16时35分]"
+          "appearance_count": 9,
+          "time_info": "[10时08分 ~ 17时28分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -79,8 +79,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时08分 ~ 16时35分]"
+          "appearance_count": 9,
+          "time_info": "[10时08分 ~ 17时28分]"
+        },
+        {
+          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
+          "url": "https://wallstreetcn.com/articles/3763493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时08分 ~ 17时28分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -95,18 +110,18 @@
           "time_info": "[00时39分 ~ 07时28分]"
         },
         {
-          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
-          "url": "https://wallstreetcn.com/articles/3763493",
-          "source": "华尔街见闻",
+          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
+          "url": "https://www.cls.cn/detail/2260948",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            6,
             5,
-            4
+            7,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时08分 ~ 16时35分]"
+          "appearance_count": 9,
+          "time_info": "[10时08分 ~ 17时28分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -146,20 +161,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时39分 ~ 07时28分]"
-        },
-        {
-          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
-          "url": "https://www.cls.cn/detail/2260948",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时08分 ~ 16时35分]"
         },
         {
           "title": "挪威诺贝尔研究所：诺贝尔和平奖始终与挪威诺贝尔委员会指定的获奖者或组织密不可分。（此前委内瑞拉反对派领导人马查多向特朗普递交了诺贝尔和平奖奖章）",
@@ -265,6 +266,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时44分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 17时28分]"
         },
         {
           "title": "特朗普扬言接管格陵兰 俄罗斯回应：从国际法看非同寻常 将持续关注局势",
@@ -426,18 +440,6 @@
           "time_info": "[00时40分 ~ 01时32分]"
         },
         {
-          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 16时35分]"
-        },
-        {
           "title": "本周，降息赢家指数累计上涨0.22%，周五（1月16日）报107.51点。 “特朗普关税输家”指数累跌0.75%，报118.52点。 “特朗普金融指数”累跌1.78%，报176.06点。 散户抱团概念股指数/迷因股（meme stock）指数累跌3.15%，报16.14点。",
           "url": "https://wallstreetcn.com/livenews/3039029",
           "source": "华尔街见闻-快讯",
@@ -576,6 +578,17 @@
           "time_info": "01时32分"
         },
         {
+          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://wallstreetcn.com/articles/3763499",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉石油正被输送到美国。 无需就攫取委内瑞拉石油征求任何人的意见。",
           "url": "https://wallstreetcn.com/livenews/3039010",
           "source": "华尔街见闻-快讯",
@@ -648,9 +661,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "特朗普被曝2017年就想入侵委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7595827633294147635/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "美国明尼苏达州抗议持续 特朗普称局势“失控”",
@@ -766,7 +790,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "上合组织就伊朗局势发布声明",
@@ -788,8 +812,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时25分 ~ 16时35分]"
+          "appearance_count": 17,
+          "time_info": "[03时25分 ~ 17时28分]"
         },
         {
           "title": "上海合作组织发表关于伊朗局势的声明",
@@ -828,19 +852,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 17时28分]"
         },
         {
-          "title": "伊朗武装部队总参谋长：敌对势力利用媒体歪曲事实",
-          "url": "https://flash.jin10.com/detail/20260117160638101800",
+          "title": "巴基斯坦外长和伊朗外长通电话 呼吁保持地区和平稳定",
+          "url": "https://flash.jin10.com/detail/20260117164104796800",
           "source": "金十数据",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "17时28分"
         },
         {
           "title": "伊朗全境已恢复互联网服务。（央视新闻）",
@@ -849,11 +873,38 @@
           "ranks": [
             4,
             6,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 17时28分]"
+        },
+        {
+          "title": "伊朗全境已恢复互联网服务。",
+          "url": "https://flash.jin10.com/detail/20260117135223968800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 17时28分]"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：敌对势力利用媒体歪曲事实",
+          "url": "https://flash.jin10.com/detail/20260117160638101800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时28分]"
         },
         {
           "title": "欧洲航空安全局：伊朗存在以及可能使用多种武器和防空系统，对在各高度运行的民用航班构成高风险。",
@@ -866,19 +917,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 04时31分]"
-        },
-        {
-          "title": "伊朗全境已恢复互联网服务。",
-          "url": "https://flash.jin10.com/detail/20260117135223968800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 16时35分]"
         },
         {
           "title": "欧洲航空安全局：美国可能采取军事行动已使伊朗防空部队进入高度戒备状态，目前德黑兰飞行情报区发生误判的可能性正在上升。",
@@ -903,6 +941,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 04时31分]"
+        },
+        {
+          "title": "伊朗全境已恢复互联网服务",
+          "url": "https://www.douyin.com/hot/2370647",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 17时28分]"
         },
         {
           "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
@@ -943,18 +994,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时09分 ~ 13时28分]"
-        },
-        {
-          "title": "伊朗全境已恢复互联网服务",
-          "url": "https://www.douyin.com/hot/2370647",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 16时35分]"
         },
         {
           "title": "美总统与以总理被曝再次通话讨论伊朗局势",
@@ -1103,8 +1142,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时28分 ~ 16时35分]"
+          "appearance_count": 10,
+          "time_info": "[07时28分 ~ 17时28分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -1130,8 +1169,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时39分 ~ 16时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时39分 ~ 17时28分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
@@ -1224,6 +1263,18 @@
           "time_info": "[00时39分 ~ 07时28分]"
         },
         {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 17时28分]"
+        },
+        {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
           "url": "https://wallstreetcn.com/livenews/3039069",
           "source": "华尔街见闻-快讯",
@@ -1238,18 +1289,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时09分 ~ 15时26分]"
-        },
-        {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 16时35分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -1477,11 +1516,12 @@
           "ranks": [
             3,
             11,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 17时28分]"
         },
         {
           "title": "金价波动",
