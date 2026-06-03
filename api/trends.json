@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-03T18:02:32.312157+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-06-03T22:59:10.540416+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
+          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 22时59分]"
+        },
         {
           "title": "伊朗突袭美军中东基地，科威特拦截导弹画面曝光",
           "url": "https://news.ifeng.com/c/8teM8SFj90x",
@@ -42,17 +54,6 @@
           "time_info": "[02时49分 ~ 05时54分]"
         },
         {
-          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
-          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
-        },
-        {
           "title": "美军称对伊朗格什姆岛实施“自卫性”打击 伊朗向邻国发射导弹",
           "url": "https://flash.jin10.com/detail/20260603073917860800",
           "source": "金十数据",
@@ -81,7 +82,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -141,6 +142,17 @@
           "time_info": "02时49分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：我希望伊朗领导人能为国家带来真正的未来。",
+          "url": "https://flash.jin10.com/detail/20260603225328942800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "美军机发射“地狱火”导弹，击中一艘伊朗相关油轮",
           "url": "https://news.ifeng.com/c/8te0bJrzbXu",
           "source": "凤凰网",
@@ -152,16 +164,28 @@
           "time_info": "07时54分"
         },
         {
+          "title": "科威特外交部要求两名伊朗驻科外交人员离境",
+          "url": "https://wallstreetcn.com/livenews/3113883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
           "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 22时59分]"
         },
         {
           "title": "伊朗将在3座城市为哈梅内伊举办葬礼",
@@ -175,6 +199,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时49分 ~ 07时54分]"
+        },
+        {
+          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
+          "url": "https://wallstreetcn.com/articles/3773721",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
         },
         {
           "title": "伊朗导弹爆炸现场画面",
@@ -219,6 +254,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗正在以针对地区目标的袭击来回应霍尔木兹海峡的通航行动。",
+          "url": "https://flash.jin10.com/detail/20260603225248511800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：准备好全面升级（中东紧张局势）。 我们“除掉”了大约20名伊朗核科学家。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3113881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗战斗机袭击了位于伊拉克库尔德斯坦地区的武装团体总部，这些武装团体得到了欧洲、以色列和美国情报机构的支持。",
@@ -271,7 +328,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -293,7 +350,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -326,7 +383,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -430,6 +487,17 @@
           "time_info": "12时58分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：我相信最终伊朗的裂痕会扩散，政权将会垮台。",
+          "url": "https://flash.jin10.com/detail/20260603224722351800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "伊朗伊斯兰共和国广播电视台（IRIB）：巴林传出警报声。",
           "url": "https://flash.jin10.com/detail/20260603065538627800",
           "source": "金十数据",
@@ -447,15 +515,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗目前存在巨大的裂痕。",
+          "url": "https://flash.jin10.com/detail/20260603224628418800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普，开掉“不听话的情报头子”",
@@ -492,6 +571,17 @@
           "time_info": "[02时49分 ~ 05时54分]"
         },
         {
+          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
+          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
+        },
+        {
           "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡“疯了”：要不是我你早进监狱了！",
           "url": "https://wallstreetcn.com/articles/3773679",
           "source": "华尔街见闻",
@@ -501,6 +591,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时01分 ~ 18时02分]"
+        },
+        {
+          "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
+          "url": "https://wallstreetcn.com/articles/3773781",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
+        },
+        {
+          "title": "特朗普任命房屋监管主管兼任情报总监",
+          "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
         },
         {
           "title": "白宫记协晚宴改期至7月 特朗普称计划出席",
@@ -549,6 +661,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "美国财长贝森特：我们存在开支问题和增长问题。 总统特朗普任期届满时，赤字与GDP比率可能会低于4%。",
+          "url": "https://wallstreetcn.com/livenews/3113884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "被特朗普斥“疯了”后，内塔尼亚胡强硬表态",
           "url": "https://news.ifeng.com/c/8tdev8HIju4",
           "source": "凤凰网",
@@ -572,6 +695,18 @@
           "time_info": "[12时58分 ~ 18时02分]"
         },
         {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 22时59分]"
+        },
+        {
           "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
           "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
           "source": "凤凰网",
@@ -582,17 +717,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时58分 ~ 18时02分]"
-        },
-        {
-          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
-          "url": "https://wallstreetcn.com/articles/3773725",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
           "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
@@ -615,6 +739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "美国财长贝森特在听证会上宣称：并没有提前知道总统特朗普会起诉（财政部下辖）国税局（IRS）。",
+          "url": "https://wallstreetcn.com/livenews/3113880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "枪击案发生后白宫记协晚宴改期至7月，特朗普称计划出席",
@@ -683,6 +818,17 @@
           "time_info": "05时54分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：与美国总统特朗普的关系没有改变。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3113869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "特朗普被曝同以总理通话爆粗口",
           "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
           "source": "澎湃新闻",
@@ -694,6 +840,28 @@
           "time_info": "07时54分"
         },
         {
+          "title": "美国国务卿卢比奥：总统特朗普知道挑起伊朗战争的经济后果。",
+          "url": "https://wallstreetcn.com/livenews/3113867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "美国财长贝森特在听证会上宣称：特朗普税法避免了超过5万亿美元的税收增长。",
+          "url": "https://wallstreetcn.com/livenews/3113866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "特朗普：已接受在白宫记者晚宴发言的邀请",
           "url": "https://flash.jin10.com/detail/20260603020332024800",
           "source": "金十数据",
@@ -703,6 +871,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：特朗普希望与伊朗当前政权达成协议，但这并不意味着他希望政权继续存在。",
+          "url": "https://flash.jin10.com/detail/20260603224645937800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
@@ -719,7 +898,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -730,8 +909,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[07时54分 ~ 22时59分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -757,6 +936,18 @@
           "time_info": "05时54分"
         },
         {
+          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
+          "url": "https://www.cls.cn/detail/2389478",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 22时59分]"
+        },
+        {
           "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
           "url": "https://www.cls.cn/detail/2388757",
           "source": "财联社热门",
@@ -767,6 +958,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时49分 ~ 07时54分]"
+        },
+        {
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
         },
         {
           "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
@@ -780,15 +982,15 @@
           "time_info": "[02时49分 ~ 05时54分]"
         },
         {
-          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
-          "url": "https://www.cls.cn/detail/2389478",
-          "source": "财联社热门",
+          "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "time_info": "[22时58分 ~ 22时59分]"
         },
         {
           "title": "英特尔美股盘前涨超4%，新处理器Xeon 6 Plus亮相，进军AI整机柜市场。",
@@ -797,7 +999,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -960,6 +1162,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2045220633466725057",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
+        },
+        {
+          "title": "据路透援引消息人士报道，DeepSeek计划在首轮融资中筹集约70亿美元，估值高达590亿美元。腾讯与宁德时代将成为DeepSeek最大的外部投资者；网易和京东也计划参投。",
+          "url": "https://flash.jin10.com/detail/20260603121634379800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1010,26 +1240,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据路透援引消息人士报道，DeepSeek计划在首轮融资中筹集约70亿美元，估值高达590亿美元。腾讯与宁德时代将成为DeepSeek最大的外部投资者；网易和京东也计划参投。",
-          "url": "https://flash.jin10.com/detail/20260603121634379800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "18时02分"
         }
       ]
     }
